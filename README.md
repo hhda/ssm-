@@ -1,2 +1,2 @@
 # ssm-code
-ssm的小项目
+springMVC+spring+mybatis+mysql的项目实例
